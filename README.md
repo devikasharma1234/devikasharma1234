@@ -6,11 +6,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 , I'm Devika Sharma </h1>
 <h3 align="center">A passionate MERN-Stack Developer</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mayankyadav1711" alt="mayankyadav1711" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayankyadav1711" alt="mayankyadav1711" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/mayankyadav_17" target="blank"><img src="https://img.shields.io/twitter/follow/mayankyadav_17?logo=twitter&style=for-the-badge" alt="mayankyadav_17" /></a> </p>
 
 - 🌱 I’m currently learning **CI/CD Pipeline.**
 
