@@ -12,7 +12,7 @@
 ### 🚀 Professional Summary
 - 🎓 B.Tech CSE (AI/ML) student @ UIET Kurukshetra | Batch of 2027.
 - 🚀 Head of Tech & Media @ Hail Jarvis CSE Club.
-- 💻 Full-stack dev — MERN stack (React, Next.js, Node.js, Express, MongoDB).
+- 💻 Full-stack dev (React, Next.js, Node.js, Express, MongoDB, Postgres).
 - 🛠️ Also working with FastAPI, Docker, CI/CD (GitHub Actions), and AWS.
 - 🤖 Exploring ML — Oracle ML, logistic regression, and deep learning projects.
 - 📌 Open to SDE Internships & Full-Stack Developer roles.
